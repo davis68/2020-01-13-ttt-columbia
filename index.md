@@ -2,20 +2,20 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
-venue: "University of Illinois"
-address: "131 School of Information Sciences, 501 East Daniel Street, Champaign, Illinois"
-latlng: "40.1076536,-88.2336951"
+venue: "Columbia University"
+address: "Columbia University, New York City, New York"
+latlng: ""
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-humandate: "Dec 12–13, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Jan 13–14, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am–5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2018-12-12      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2018-12-13        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Neal Davis","Elizabeth Wickes"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+startdate: 2020-01-13      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2020-01-14        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Neal Davis","Christopher Hamm"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-contact: ["training@cse.illinois.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: https://pad.carpentries.org/2019-12-12-ttt-illinois            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite: 75333447369          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+contact: ["davis68@illinois.edu","topher.hamm@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+collaborative_notes: https://pad.carpentries.org/2020-01-13-ttt-columbia            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
